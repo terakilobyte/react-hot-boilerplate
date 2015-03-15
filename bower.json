@@ -1,0 +1,30 @@
+{
+  "name": "NimBot",
+  "version": "0.0.1",
+  "homepage": "https://github.com/terakilobyte/react-hot-boilerplate",
+  "authors": [
+    "Nathan Leniz <terakilobyte@gmail.com>"
+  ],
+  "description": "Nimbot for the game of 100",
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "react"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
